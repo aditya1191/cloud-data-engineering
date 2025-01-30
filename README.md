@@ -8,9 +8,9 @@ In this project, I apply Data Modeling with Postgres and build an ETL pipeline u
 In this project, I apply Data Modeling with Cassandra and build an ETL pipeline using Python. I will build a Data Model around our queries that I want to get answers for. 
 For my use case I want below answers: 
 
- - Get details of a song that was herad on the music app history during a particular session. 
- - Get songs played by a user during particular session on music app. 
-  - Get all users from the music app history who listened to a particular song.
+- Get details of a song that was heard on the music app history during a particular session. 
+- Get songs played by a user during particular session on music app. 
+- Get all users from the music app history who listened to a particular song.
 
 
 ## Project 3: Data Warehouse
